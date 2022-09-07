@@ -1,6 +1,8 @@
 ## Name
 Andrey Lermontov
 
+![Andrey Lermonov's photo](/IMG_0369_1.JPG "Andrey Lermontov")
+
 ## Contact Information
 e-mail: lermontovav@gmail.com
 phone: +79119357711
