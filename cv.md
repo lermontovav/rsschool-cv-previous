@@ -1,7 +1,7 @@
 ## Name
 Andrey Lermontov
 
-![Andrey Lermonov's photo](/IMG_0369_1.JPG "Andrey Lermontov")
+![Andrey Lermonov's photo](https://lermontovav.github.io/rsschool-cv/IMG_0369_1.JPG "Andrey Lermontov")
 
 ## Contact Information
 e-mail: lermontovav@gmail.com
